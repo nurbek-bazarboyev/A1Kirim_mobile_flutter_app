@@ -1,0 +1,2 @@
+C:/Users/bazar/StudioProjects/a1_kirim_mobile/android/app/.cxx/RelWithDebInfo/184g612d/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/bazar/StudioProjects/a1_kirim_mobile/android/app/.cxx/RelWithDebInfo/184g612d/x86_64/CMakeFiles/rebuild_cache.dir
